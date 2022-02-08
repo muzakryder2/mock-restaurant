@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mock-restaurant/static/css/main.fa98d9cf.css",
+    "main.js": "/mock-restaurant/static/js/main.b1eb0f3d.js",
+    "static/media/home-main-content-image.jpg": "/mock-restaurant/static/media/home-main-content-image.c0a7b8f9cddf839c1fe7.jpg",
+    "static/media/hero-image.jpg": "/mock-restaurant/static/media/hero-image.48de84e2c4214e448183.jpg",
+    "static/media/logo-white-bg.png": "/mock-restaurant/static/media/logo-white-bg.febfb1a8d9e9d8610f3f.png",
+    "static/media/gift-card.png": "/mock-restaurant/static/media/gift-card.1fc3357218d1f1f133db.png",
+    "static/media/instagram-image-5.jpg": "/mock-restaurant/static/media/instagram-image-5.9423662e40c6ca3d09c6.jpg",
+    "static/media/instagram-image-2.jpg": "/mock-restaurant/static/media/instagram-image-2.81c3b2107a22f5eb45a0.jpg",
+    "static/media/instagram-image-4.jpg": "/mock-restaurant/static/media/instagram-image-4.15e9a24159a26ec0a619.jpg",
+    "static/media/instagram-image-1.jpg": "/mock-restaurant/static/media/instagram-image-1.ce39c68ada7b33ea73be.jpg",
+    "static/media/instagram-image-3.jpg": "/mock-restaurant/static/media/instagram-image-3.9b336f6d30d9ed486714.jpg",
+    "index.html": "/mock-restaurant/index.html",
+    "main.fa98d9cf.css.map": "/mock-restaurant/static/css/main.fa98d9cf.css.map",
+    "main.b1eb0f3d.js.map": "/mock-restaurant/static/js/main.b1eb0f3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa98d9cf.css",
+    "static/js/main.b1eb0f3d.js"
+  ]
+}
